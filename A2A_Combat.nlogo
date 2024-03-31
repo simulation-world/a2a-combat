@@ -1,3 +1,10 @@
+; ============================= ;
+;       AIR-TO-AIR COMBAT       ;
+; ============================= ;
+; AUTHOR: Charlie Wang
+; https://github.com/simulation-world
+; ----------------------------- ;
+
 globals
 [
   total-missiles-fired
@@ -735,7 +742,6 @@ Before running the simulation, a number of parameters can be set to vary aircraf
 - AAM-mass is the total mass of the missile (kg).
 
 Once settings are configured as desired, the setup button should be pressed to initialize all the aircraft in the simulation. The go button should be pressed to begin the simulation. The inspect-aircraft input can be used to view data on a specific aircraft (ID). This is meant for blue aircraft. 
-
 
 
 @#$#@#$#@
